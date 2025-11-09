@@ -1,10 +1,19 @@
-#Player's Turn Definition:
-*Engine selects 1 random person
+# Round Structure (Text Based Game)
 
-*Engine selects 1 random statement
+1) Game randomly selects a guild member.
+2) Game randomly selects one of that member's statements from the statement pool.
+3) Game displays:
+   - the member's name
+   - the statement text
 
-*Engine shows statement to player
+4) Player enters:  1 = they believe this is TRUE   |   0 = they believe this is FALSE
 
-*Player chooses: TRUE / FALSE
+5) Game checks:
+   - check if this sentry was assigned truthful or liar at start
+   - invert answer if liar
+   - determine if player's guess is correct or incorrect
 
-*Engine reveals truth flag + updates score
+6) Game updates strike count and score.
+
+7) If the player reaches 3 incorrect guesses -> immediate game over.
+
