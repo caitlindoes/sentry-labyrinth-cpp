@@ -1,1 +1,3 @@
-// Actual struct/class gets completed after statement pool freeze
+#include "sentry.hpp"
+
+// implementation placeholder
