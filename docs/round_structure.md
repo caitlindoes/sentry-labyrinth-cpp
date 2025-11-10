@@ -1,12 +1,12 @@
 # Round Structure (Text Based Game)
-
-1) Game randomly selects a guild member.
-2) Game randomly selects one of that member's statements from the statement pool.
+1) Player selects a path (L-M-R | l-m-r)
+2) Game randomly selects a sentry.
+3) Game randomly selects one of that member's statements from the statement pool.
 3) Game displays:
    - the member's name
    - the statement text
 
-4) Player enters:  1 = they believe this is TRUE   |   0 = they believe this is FALSE
+4) Player enters:  T or t = they believe this is TRUE   |  F or f  = they believe this is FALSE
 
 5) Game checks:
    - check if this sentry was assigned truthful or liar at start
