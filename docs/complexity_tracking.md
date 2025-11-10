@@ -1,6 +1,10 @@
 # Complexity Tracking Metrics + Measurement Design
 
 This game will track complexities.
+How many wuestions were asked and the time taken to reach the win condtion. 
+This will be achieved via variables or data structures to store these metrics for different
+playthroughs.
+
 
 We will record the following metrics during runtime:
 
