@@ -1,1 +1,1 @@
-
+// Sentry entity header placeholder
