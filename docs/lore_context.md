@@ -2,6 +2,8 @@
 
 The player enters a branching labyrinth where 8 sentries guard the possible exit paths. Each sentry is from [...]
 
+named Winmore, Arah, Saval, Hydra, Severa, Fromir, Melisent, and Ashes.
+
 Each one is capable of telling perfect truth OR perfect lies — but the player does not know which ahead of time.
 
 To escape the labyrinth, the player must deduce correct reality from falsehood through questioning. 
