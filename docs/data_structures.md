@@ -38,4 +38,4 @@ Cons:
 ---
 
 
-Vote will occur after statement pool is complete.
+Cait determined Option A is best due to time constraints.
