@@ -1,6 +1,6 @@
 # Lore Context 
 
-The player enters a branching labyrinth where 8 sentries guard the possible exit paths. Each sentry is a real guild member from our party: Riwa, Caitlin, Ruby, Le’Andra, Remi, Kayla, Nashwah, and Alaa. 
+The player enters a branching labyrinth where 8 sentries guard the possible exit paths. Each sentry is from [...]
 
 Each one is capable of telling perfect truth OR perfect lies — but the player does not know which ahead of time.
 
